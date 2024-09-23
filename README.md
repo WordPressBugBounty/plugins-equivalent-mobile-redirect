@@ -1,0 +1,1 @@
+# plugins-equivalent-mobile-redirect
